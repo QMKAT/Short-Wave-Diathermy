@@ -14,7 +14,7 @@
     --text-light: #4a5568;
     --white: #ffffff;
     --bg-light: #f7fafc;
-    --bg-dark: #1a202c;
+    --bg-dark: rgb(17, 24, 39);
     --border-light: #e2e8f0;
 
     /* Status Colors (Warnings/Info) */
