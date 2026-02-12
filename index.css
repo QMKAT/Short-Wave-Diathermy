@@ -190,7 +190,7 @@ img {
 }
 
 .hero-content h1 {
-    font-size: 3rem;
+    font-size: 1rem;
     margin: 15px 0 20px;
     line-height: 1.2;
 }
@@ -697,4 +697,5 @@ img {
         white-space: normal;
         line-height: 1.1;
     }
+
 }
